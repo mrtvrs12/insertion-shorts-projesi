@@ -23,3 +23,4 @@ Best case:O(N)=O(6)
 4-18 sayısı hangi case kapsamına girer
  Avarage Case
  
+www.patika.dev
